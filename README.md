@@ -1,7 +1,8 @@
 ## 👋 Bienvenue!
 
 #### 🎯 Étudiante en informatique
-- Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval avec une spécialisation en développement logiciel. #### 💼 En recherche active d'un stage pour l'hiver 2026
+- Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval avec une spécialisation en développement logiciel.
+#### 💼 En recherche active d'un stage pour l'hiver 2026
 - Je souhaite mettre à profit mes nouvelles compétences et enthousiaste à l'idée de relever de nouveaux défis.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/judithaishadortelus )
 #### 🚀 Projets universitaire en cours:
