@@ -1,4 +1,4 @@
-## 👋 Bienvenue!
+# 👋 Bienvenue!
 
 ## 🎯 Étudiante en informatique
 - Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval avec une spécialisation en développement logiciel.
