@@ -1,11 +1,11 @@
 ## 👋 Bienvenue!
 
-#### 🎯 Étudiante en informatique
+## 🎯 Étudiante en informatique
 - Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval avec une spécialisation en développement logiciel.
-#### 💼 En recherche active d'un stage pour l'hiver 2026
+## 💼 En recherche active d'un stage pour l'hiver 2026
 - Je souhaite mettre à profit mes nouvelles compétences et enthousiaste à l'idée de relever de nouveaux défis.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/judithaishadortelus )
-#### 🚀 Projets universitaire en cours:
+## 🚀 Projets universitaire en cours:
 - Conception d'un logiciel de design insdustriel optimisant l'installation d'un plancher chauffant (Java);
 - Développement d'un réseau social centré sur le partage de restaurants favoris entre utilisateurs (JavaScript);
 - Création d'une application de gestion de tâches (JavaScript).
