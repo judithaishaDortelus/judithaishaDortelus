@@ -1,13 +1,17 @@
 # 👋 Bienvenue!
 
 ## 🎯 Étudiante en informatique
-- Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval avec une spécialisation en développement logiciel.
-## 💼 En recherche active d'un stage pour l'hiver 2026
-- Je souhaite mettre à profit mes nouvelles compétences et enthousiaste à l'idée de relever de nouveaux défis.
+- Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval et termine mon parcours avec un certificat en informatique (concentration en génie logiciel).
+  
+- Mon parcours est un peu atypique: artiste tatoueuse (travailleuse autonome) depuis plus de six ans, c’est mon intérêt pour l’art visuel qui m’a incitée à retourner aux études; mon appétit pour les défis techniques qui m’ont gardé. <br>
+Mes études en animation interactive ont éveillé ma curiosité pour la programmation d’outils et d’effets visuels. J’ai donc décidé de conclure mon parcours en informatique, spécialisé en génie logiciel. Cette immersion dans le domaine informatique a confirmé que c’est dans cela que je souhaite poursuivre ma carrière.
+
+## 💼 Activement à la recherche d'opportunités
+- Je suis débrouillarde, motivée et dédiée à l’idée de mettre en œuvre mes connaissances techniques et ma créativité au service d’une entreprise qui développe des solutions informatiques innovantes, tout en continuant d’apprendre.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/judithaishadortelus )
-## 🚀 Projets universitaire en cours:
-- Conception d'un logiciel de design insdustriel optimisant l'installation d'un plancher chauffant (Java);
-- Développement d'un réseau social centré sur le partage de restaurants favoris entre utilisateurs (JavaScript);
+## 🚀 Projets universitaire récents:
+- Conception d'un logiciel de modélisation d'installation de planchers chauffants (Java);
+- Développement d'une application web responsive permettant de découvrir des restaurants et partager ses favoris avec autrui (JavaScript);
 - Création d'une application de gestion de tâches (JavaScript).
 
 ### 💻 Compétences technologiques:
