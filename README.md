@@ -9,10 +9,12 @@ Mes études en animation interactive ont éveillé ma curiosité pour la program
 ## 💼 Activement à la recherche d'opportunités
 - Je suis débrouillarde, motivée et dédiée à l’idée de mettre en œuvre mes connaissances techniques et ma créativité au service d’une entreprise qui développe des solutions informatiques innovantes, tout en continuant d’apprendre.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/judithaishadortelus )
-## 🚀 Projets universitaire récents:
+## 🚀 Projets universitaire récents (automne 2025):
 - Conception d'un logiciel de modélisation d'installation de planchers chauffants (Java);
 - Développement d'une application web responsive permettant de découvrir des restaurants et partager ses favoris avec autrui (JavaScript);
 - Création d'une application de gestion de tâches (JavaScript).
+
+*nb : Les projets universitaires mentionnés ci-dessus seront répertoriées dans ce github lorsque les cotes finales de la session d'autonmne 2025 seront publiées et officielles*
 
 ### 💻 Compétences technologiques:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
