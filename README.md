@@ -2,19 +2,10 @@
 
 ## 🎯 Étudiante en informatique
 - Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval et termine mon parcours avec un certificat en informatique (concentration en génie logiciel).
-  
-- Mon parcours est un peu atypique: artiste tatoueuse (travailleuse autonome) depuis plus de six ans, c’est mon intérêt pour l’art visuel qui m’a incitée à retourner aux études; mon appétit pour les défis techniques qui m’ont gardé. <br>
-Mes études en animation interactive ont éveillé ma curiosité pour la programmation d’outils et d’effets visuels. J’ai donc décidé de conclure mon parcours en informatique, spécialisé en génie logiciel. Cette immersion dans le domaine informatique a confirmé que c’est dans cela que je souhaite poursuivre ma carrière.
 
 ## 💼 Activement à la recherche d'opportunités
 - Je suis débrouillarde, motivée et dédiée à l’idée de mettre en œuvre mes connaissances techniques et ma créativité au service d’une entreprise qui développe des solutions informatiques innovantes, tout en continuant d’apprendre.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/judithaishadortelus )
-## 🚀 Projets universitaire récents (automne 2025):
-- Conception d'un logiciel de modélisation d'installation de planchers chauffants (Java);
-- Développement d'une application web responsive permettant de découvrir des restaurants et partager ses favoris avec autrui (JavaScript);
-- Création d'une application de gestion de tâches (JavaScript).
-
-*nb : Les projets universitaires mentionnés ci-dessus seront répertoriées dans ce github lorsque les cotes finales de la session d'autonmne 2025 seront publiées et officielles.*
 
 ### 💻 Compétences technologiques:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
