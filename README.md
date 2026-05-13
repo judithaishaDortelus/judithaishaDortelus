@@ -1,7 +1,7 @@
 # 👋 Bienvenue!
 
 ## 🎯 Étudiante en informatique
-- Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval et termine mon parcours avec un certificat en informatique.
+- Je suis finissante au baccalauréat multidisciplinaire à l'Université Laval et terminé mon parcours avec un certificat en informatique.
 
 ## 💼 Activement à la recherche d'opportunités
 - Je suis débrouillarde, motivée et dédiée à l’idée de mettre en œuvre mes connaissances techniques et ma créativité au service d’une entreprise qui développe des solutions informatiques innovantes, tout en continuant d’apprendre.
